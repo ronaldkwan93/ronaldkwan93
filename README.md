@@ -14,7 +14,7 @@ I'm a full stack software developer specializing in system & web integration wit
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-333333?logo=java&logoColor=white&labelColor=lightgrey)
-![Spring](https://img.shields.io/badge/Spring-333333?logo=spring&logoColor=green&labelColor=lightgrey)
+![Spring](https://img.shields.io/badge/Spring-333333?logo=spring-boot&logoColor=green&labelColor=lightgrey)
 ![NestJS](https://img.shields.io/badge/NestJS-333333?logo=nestjs&logoColor=red&labelColor=lightgrey)
 ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase&logoColor=orange&labelColor=lightgrey)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript&logoColor=blue&labelColor=lightgrey)
