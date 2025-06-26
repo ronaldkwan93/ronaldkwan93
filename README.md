@@ -6,7 +6,7 @@ I'm a full stack software developer specializing in system & web integration wit
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-333333?logo=html5&logoColor=red&labelColor=lightgrey)
-![CSS](https://img.shields.io/badge/CSS-333333?logo=css3&logoColor=blue&labelColor=lightgrey)
+![CSS](https://img.shields.io/badge/CSS-333333?logo=CSS&logoColor=blue&labelColor=lightgrey)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=yellow&labelColor=lightgrey)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?logo=typescript&logoColor=blue&labelColor=lightgrey)
 ![Sass](https://img.shields.io/badge/Sass-333333?logo=sass&logoColor=pink&labelColor=lightgrey)
