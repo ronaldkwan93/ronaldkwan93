@@ -1,4 +1,4 @@
-# Hi, I'm Ron! 
+# Hi, I'm Ron! 🚀
 
 I'm a full stack software developer specializing in system & web integration with a strong foundation in programming languages and have a passion for creating seamless digital ecosystems, ensuring optimal functionality and efficiency.
 
